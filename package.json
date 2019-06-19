@@ -1,0 +1,10 @@
+{
+    "name": "CopyFileNConvetItSmaller",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "latest",
+        "express": "latest",
+        "fs-extra": "latest",
+        "sharp": "^0.22.1"
+    }
+}
